@@ -1,0 +1,5 @@
+Alice,Smith,21,F,A
+Bob,Johnson,22,M,B
+Carol,Jones,20,F,A
+David,Brown,23,M,C
+Eve,Davis,21,F,B

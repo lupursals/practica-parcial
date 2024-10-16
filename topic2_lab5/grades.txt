@@ -1,0 +1,5 @@
+Alice,A
+Bob,B
+Carol,A
+David,C
+Eve,B
